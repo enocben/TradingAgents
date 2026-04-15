@@ -51,6 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+.idea/
+
 # Translations
 *.mo
 *.pot
@@ -217,3 +219,6 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+reports/
+.env.example
